@@ -1,2 +1,2 @@
 # JavaBootcampTasks
-Code Academy java bootcamp butun tasklari
+java bootcamp butun tasklari
